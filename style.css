@@ -3,13 +3,13 @@
 }
 
 .links {
-    display: inline;
+    display: block;
     background-color: #32174D;
     color: black;
     font-family: cursive;
     font-size: large;
     font-weight: bold;
-    margin-left: 1175px;
+    text-align: right;
 }
 
 .button {
