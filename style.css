@@ -12,7 +12,12 @@
     margin-left: 1250px;
 }
 
-.rmu {
+.button {
     text-decoration: none;
     color: black;
+}
+
+.button:hover {
+    color: white;
+    background-color: blue;
 }
