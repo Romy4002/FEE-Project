@@ -1,0 +1,62 @@
+body{
+    background: linear-gradient(to right,pink,lightblue);
+}
+#heading-text{
+    font-size: 30px;
+    font-weight: 800;
+    padding-left: 15px;
+    padding-top: 20px;
+    color: black;
+}
+.nav-bar-text{
+    margin-left: 15%;
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 1.5%;
+}
+.nav-bar-text2{
+    margin-left: 4%;
+    font-size: 17px;
+    font-weight: 800;
+    margin-top: 1.7%;
+}
+.signin-button{
+    width: 160px;
+    height: 50px;
+    border: 2px solid rgb(255, 182, 232);
+    margin-left: 7%;
+    margin-top: 1.5%;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signin-button:hover{
+    background-color:rgb(255, 105, 240);
+}
+.nav-bar-text2:hover{
+    text-decoration: underline;
+}
+.nav-bar-text:hover{
+    text-decoration: underline;
+}
+.form{
+    width: 700px;
+    height:60px;
+    border:3px solid black;
+    border-radius: 29px;
+    font-size:13px;
+    margin-right: 4px;
+    background-color: white;
+    
+    
+}
+#btn{
+    margin:4%;
+    font-size:13px ;
+    border:3px solid white;
+    background-color: light pink;
+    height: 20px;
+    width: 100px;
+}
+
